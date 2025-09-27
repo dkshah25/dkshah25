@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Dev, Generative AI**
 
-- 👨‍💻 All of my projects are available at [dharmit-shah.netlify.app](dharmit-shah.netlify.app)
+- 👨‍💻 All of my projects are available at [https://dharmit-shah.netlify.app](https://dharmit-shah.netlify.app)
 
 - 📫 How to reach me **dharmitshah2007@gmail.com**
 
