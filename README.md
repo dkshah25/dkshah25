@@ -23,7 +23,7 @@
 
 ### 🚀 About Me  
 - 🌱 I’m currently learning **Web Development & Generative AI**  
-- 👨‍💻 Check out my projects at **[dharmit-shah.netlify.app](https://dharmit-shah.netlify.app/)**  
+- 👨‍💻 Check out my projects at **[MY PORTFOLIO WEBSITE](https://dharmit-shah.netlify.app/)**  
 - 📫 Reach me at **dharmitshah2007@gmail.com**  
 - ⚡ Fun fact: *I love combining creativity 🎨 with technology ⚡*  
 
