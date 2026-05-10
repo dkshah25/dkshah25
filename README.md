@@ -127,23 +127,23 @@ Goal:
 <div align="center">
 
 <a href="https://linkedin.com/in/dharmit-shah2508">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/dharmit.tech">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/dharmitshah2007">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="55"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/dkshah25">
-<img src="https://skillicons.dev/icons?i=leetcode" height="55"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:dharmitshah2007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -154,9 +154,9 @@ Goal:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkshah25&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dkshah25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkshah25&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkshah25&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -166,7 +166,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=dkshah25&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dkshah25&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
