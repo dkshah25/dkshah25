@@ -32,18 +32,19 @@
 Name: Dharmit Kunal Shah
 Location: India
 Education: B.Tech CSE Student
+
 Interests:
   - Artificial Intelligence
   - Full Stack Development
   - Automation Systems
   - Open Source
-  - Startup Building
   - Product Development
+  - Startup Building
 
 Currently Working On:
   - AI Agents
-  - Automation Tools
-  - Real-world SaaS Projects
+  - Automation Systems
+  - Full Stack Projects
   - Open Source Contributions
 
 Goal:
@@ -87,22 +88,24 @@ Goal:
 <td width="50%">
 
 ### Web Development
+
 - Responsive UI/UX
 - React Ecosystem
 - Frontend Engineering
 - API Integration
-- Modern Web Apps
+- Modern Web Applications
 
 </td>
 
 <td width="50%">
 
 ### Artificial Intelligence
+
 - Generative AI
 - AI Agents
-- Automation Systems
 - Prompt Engineering
 - AI Workflows
+- Automation Systems
 
 </td>
 </tr>
@@ -146,17 +149,25 @@ Goal:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkshah25&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dkshah25&theme=tokyonight&hide_border=true&border_radius=15"/>
+</div>
+
+---
+
+# Contribution Streak
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=dkshah25&theme=tokyonight&hide_border=true&border_radius=15&card_width=900"/>
 
 </div>
 
 ---
 
-# GitHub Activity Graph
+# Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dkshah25&theme=tokyo-night&hide_border=true&radius=16"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dkshah25&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </div>
 
@@ -179,8 +190,8 @@ Goal:
 → Building scalable projects
 → Learning advanced AI systems
 → Contributing to open source
-→ Improving development skills
 → Exploring startup opportunities
+→ Improving development skills
 ```
 
 ---
@@ -191,6 +202,6 @@ Goal:
 
 <br/>
 
-⭐️ From [Dharmit Kunal Shah](https://github.com/dkshah25)
+⭐ From [Dharmit Kunal Shah](https://github.com/dkshah25)
 
 </div>
