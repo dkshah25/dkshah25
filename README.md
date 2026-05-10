@@ -166,9 +166,10 @@ Goal:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dkshah25&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=dkshah25&theme=transparent&hide_border=true"/>
 
 </div>
+
 
 ---
 
