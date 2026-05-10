@@ -154,9 +154,9 @@ Goal:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkshah25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkshah25&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkshah25&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkshah25&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -166,7 +166,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dkshah25&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=dkshah25&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -176,7 +176,7 @@ Goal:
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dkshah25&theme=tokyo-night&hide_border=true&radius=16"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dkshah25&theme=github-dark&hide_border=true&radius=16"/>
 
 </div>
 
