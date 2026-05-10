@@ -150,18 +150,6 @@ Goal:
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dkshah25&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkshah25&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
 # Contribution Streak
 
 <div align="center">
