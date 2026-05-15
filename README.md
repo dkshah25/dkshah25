@@ -3,7 +3,7 @@
 # Dharmit Kunal Shah
 
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" />
+  <img src="./assets/VID_20260515_172019.mp4" width="100%" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;AI+%26+Automation+Builder;Frontend+Developer;Open+Source+Contributor;Building+Real+World+Projects" alt="Typing SVG" />
