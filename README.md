@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;AI+%26+Automation+Builder;Frontend+Developer;Open+Source+Contributor;Building+Real+World+Projects" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=dkshah25&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
-
-<br/><br/>
-
 <a href="https://github.com/dkshah25">
 <img src="https://img.shields.io/github/followers/dkshah25?label=Followers&style=for-the-badge&color=181717&logo=github"/>
 </a>
