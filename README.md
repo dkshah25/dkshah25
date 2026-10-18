@@ -152,17 +152,6 @@ Goal:
 
 </div>
 
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dkshah25&theme=github-dark&hide_border=true&radius=16"/>
-
-</div>
-
 ---
 
 # Achievements & Community
